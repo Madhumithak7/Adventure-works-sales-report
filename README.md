@@ -1,5 +1,7 @@
-📊 Adventure Works Quarterly Report – Power BI Project
-📝 Overview
+## 📊 Adventure Works Quarterly Report – Power BI Project
+
+###📝 Overview
+
 This repository contains the Power BI project for the Adventure Works Quarterly Report, where I applied data storytelling techniques and dashboard optimization tailored for two different audiences: the Sales Team and the Executive Board.
 
 The project demonstrates how to:
@@ -12,7 +14,8 @@ Publish and design an executive dashboard on the Power BI Service.
 
 Optimize dashboard layouts for mobile viewing.
 
-🧩 Dataset Description
+###🧩 Dataset Description
+
 The data model includes the following tables:
 
 Sales (Fact Table): Includes sales transactions with date, profit, revenue, quantity, etc.
