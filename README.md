@@ -1,6 +1,6 @@
 ## 📊 Adventure Works Quarterly Report – Power BI Project
 
-###📝 Overview
+### 📝 Overview
 
 This repository contains the Power BI project for the Adventure Works Quarterly Report, where I applied data storytelling techniques and dashboard optimization tailored for two different audiences: the Sales Team and the Executive Board.
 
@@ -14,7 +14,7 @@ Publish and design an executive dashboard on the Power BI Service.
 
 Optimize dashboard layouts for mobile viewing.
 
-###🧩 Dataset Description
+### 🧩 Dataset Description
 
 The data model includes the following tables:
 
@@ -28,7 +28,8 @@ Salesperson (Dimension Table): Contains sales representative info.
 
 Key Measures Table: Contains pre-defined DAX measures like Total Sales, Profit, and Profit Margin.
 
-📈 Report Features (Sales Team)
+### 📈 Report Features (Sales Team)
+
 Interactive Slicers: Year and Quarter slicers for dynamic data exploration.
 
 Visualizations:
@@ -47,7 +48,8 @@ Navigation: Multi-page report layout with visuals arranged to support the story 
 
 Branding: Adventure Works logo added for a professional finish.
 
-📊 Executive Dashboard (Power BI Service)
+### 📊 Executive Dashboard (Power BI Service)
+
 Published the report to Power BI Service (My Workspace).
 
 Created a dashboard by pinning visuals filtered for Q1 & Q2 of 2020.
@@ -62,7 +64,8 @@ Logo and text tiles to present key takeaways.
 
 Mobile Optimization: Adjusted the dashboard layout for mobile using the Power BI Mobile Layout editor.
 
-🧠 Key Insights
+### 🧠 Key Insights
+
 Consistent growth in total sales across quarters.
 
 High-performing countries and product categories stand out.
@@ -71,7 +74,8 @@ Clear identification of top-performing salespersons.
 
 Executive dashboard offers quick access to KPIs and trends.
 
-🚀 How to Use
+### 🚀 How to Use
+
 Open the .pbix file in Power BI Desktop.
 
 Explore the visuals and slicers in the report pages.
@@ -80,7 +84,8 @@ Publish the report to Power BI Service to replicate the executive dashboard.
 
 Use the Mobile layout feature in Power BI Service to optimize for devices.
 
-📌 Tools & Technologies
+### 📌 Tools & Technologies
+
 Power BI Desktop
 
 Power BI Service
